@@ -1,0 +1,6 @@
+
+User-Agent: *
+Disallow: /assets/
+Disallow: /privacy-policy/
+
+Sitemap: http://www.psi-va.com/sitemap.xml
